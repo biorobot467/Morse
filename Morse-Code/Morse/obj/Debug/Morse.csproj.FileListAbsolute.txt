@@ -1,0 +1,36 @@
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\bin\Debug\Morse.exe
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\bin\Debug\Morse.pdb
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.Form1.resources
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.Properties.Resources.resources
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.exe
+C:\Users\Varvara_2\Desktop\С#\Morse-Code без бага\Morse-Code\Morse\obj\Debug\Morse.pdb
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\bin\Debug\Morse.exe
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\bin\Debug\Morse.pdb
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.Form1.resources
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.Properties.Resources.resources
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.exe
+C:\Users\Varvara_2\Desktop\С#\Morse-Code\Morse\obj\Debug\Morse.pdb
+C:\С#\Morse-Code\Morse\bin\Debug\Morse.exe
+C:\С#\Morse-Code\Morse\bin\Debug\Morse.pdb
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.Form1.resources
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.Properties.Resources.resources
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.exe
+C:\С#\Morse-Code\Morse\obj\Debug\Morse.pdb
+G:\С#\Morse-Code\Morse\bin\Debug\Morse.exe
+G:\С#\Morse-Code\Morse\bin\Debug\Morse.pdb
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.Form1.resources
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.Properties.Resources.resources
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.GenerateResource.cache
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.exe
+G:\С#\Morse-Code\Morse\obj\Debug\Morse.pdb
